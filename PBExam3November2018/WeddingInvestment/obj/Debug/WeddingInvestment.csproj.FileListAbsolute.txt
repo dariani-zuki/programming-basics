@@ -1,0 +1,6 @@
+C:\Users\Bojidara\source\repos\PBExam3October2018\WeddingInvestment\bin\Debug\WeddingInvestment.exe.config
+C:\Users\Bojidara\source\repos\PBExam3October2018\WeddingInvestment\bin\Debug\WeddingInvestment.exe
+C:\Users\Bojidara\source\repos\PBExam3October2018\WeddingInvestment\bin\Debug\WeddingInvestment.pdb
+C:\Users\Bojidara\source\repos\PBExam3October2018\WeddingInvestment\obj\Debug\WeddingInvestment.csproj.CoreCompileInputs.cache
+C:\Users\Bojidara\source\repos\PBExam3October2018\WeddingInvestment\obj\Debug\WeddingInvestment.exe
+C:\Users\Bojidara\source\repos\PBExam3October2018\WeddingInvestment\obj\Debug\WeddingInvestment.pdb

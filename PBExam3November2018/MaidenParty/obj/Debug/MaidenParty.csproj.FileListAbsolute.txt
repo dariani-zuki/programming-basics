@@ -1,0 +1,7 @@
+C:\Users\Bojidara\source\repos\PBExam3October2018\MaidenParty\bin\Debug\MaidenParty.exe.config
+C:\Users\Bojidara\source\repos\PBExam3October2018\MaidenParty\bin\Debug\MaidenParty.exe
+C:\Users\Bojidara\source\repos\PBExam3October2018\MaidenParty\bin\Debug\MaidenParty.pdb
+C:\Users\Bojidara\source\repos\PBExam3October2018\MaidenParty\obj\Debug\MaidenParty.csprojAssemblyReference.cache
+C:\Users\Bojidara\source\repos\PBExam3October2018\MaidenParty\obj\Debug\MaidenParty.csproj.CoreCompileInputs.cache
+C:\Users\Bojidara\source\repos\PBExam3October2018\MaidenParty\obj\Debug\MaidenParty.exe
+C:\Users\Bojidara\source\repos\PBExam3October2018\MaidenParty\obj\Debug\MaidenParty.pdb

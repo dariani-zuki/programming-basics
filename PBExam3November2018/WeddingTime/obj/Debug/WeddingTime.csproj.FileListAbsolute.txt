@@ -1,0 +1,6 @@
+C:\Users\Bojidara\source\repos\PBExam3October2018\WeddingTime\bin\Debug\WeddingTime.exe.config
+C:\Users\Bojidara\source\repos\PBExam3October2018\WeddingTime\bin\Debug\WeddingTime.exe
+C:\Users\Bojidara\source\repos\PBExam3October2018\WeddingTime\bin\Debug\WeddingTime.pdb
+C:\Users\Bojidara\source\repos\PBExam3October2018\WeddingTime\obj\Debug\WeddingTime.csproj.CoreCompileInputs.cache
+C:\Users\Bojidara\source\repos\PBExam3October2018\WeddingTime\obj\Debug\WeddingTime.exe
+C:\Users\Bojidara\source\repos\PBExam3October2018\WeddingTime\obj\Debug\WeddingTime.pdb
